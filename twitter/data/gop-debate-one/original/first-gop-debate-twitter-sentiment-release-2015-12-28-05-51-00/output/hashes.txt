@@ -1,0 +1,7 @@
+Current git commit:
+c31e96fadf3f886364fd010bbe78ac3cef4ba8ec
+
+Current input/ouput md5 hashes:
+MD5 (output/Sentiment.csv) = 599989ae4f146aecb82dcfba212c97a1
+MD5 (output/database.sqlite) = 4c4f9c749bc6afa2a058c2c592efe835
+MD5 (input/Sentiment.csv) = f70bb19286331ea6f2e1344d7d74f9ba
